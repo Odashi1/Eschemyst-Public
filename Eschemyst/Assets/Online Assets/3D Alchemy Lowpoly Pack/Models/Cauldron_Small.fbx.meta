@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 3173b6f1c2e060041a0ef2f9282589bb
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -3084532053197074949
+    second: Cauldron Small|Jar.001Action
+  - first:
+      74: 9017725887016891704
+    second: Cauldron Small|Jar.002Action
+  - first:
+      74: -2532053527817376517
+    second: Cauldron Small|Jar.003Action
+  - first:
+      74: -2341063965077515835
+    second: Cauldron Small|Jar.004Action
+  - first:
+      74: 6459583374804782923
+    second: Cauldron Small|Jar.005Action
+  - first:
+      74: 2298416840264599199
+    second: Cauldron Small|Jar.006Action
+  - first:
+      74: -7509531368116626752
+    second: Cauldron Small|Jar.007Action
+  - first:
+      74: 4448144519328369891
+    second: Cauldron Small|Jar.008Action
+  - first:
+      74: -7704240963197817849
+    second: Cauldron Small|Jar.009Action
+  - first:
+      74: -8949348930385331104
+    second: Cauldron Small|Jar.010Action
+  - first:
+      74: -8210722061663833413
+    second: Cauldron Small|Jar.011Action
+  - first:
+      74: 3633466869737043675
+    second: Cauldron Small|Jar.012Action
+  - first:
+      74: -6628680388058010778
+    second: Cauldron Small|Jar.013Action
+  - first:
+      74: 9159585971773059820
+    second: Cauldron Small|Jar_Acorn.001Action
+  - first:
+      74: 4507213808279662620
+    second: Cauldron Small|Jar_Bat.001Action
+  - first:
+      74: 1855354245092839168
+    second: Cauldron Small|Jar_Crystal.001Action
+  - first:
+      74: -7333980378197618045
+    second: Cauldron Small|Jar_Eyes_Blue.001Action
+  - first:
+      74: 2152555829251455130
+    second: Cauldron Small|Jar_Eyes_Green.001Action
+  - first:
+      74: -476105440106122965
+    second: Cauldron Small|Jar_Frog.001Action
+  - first:
+      74: 177311761584819676
+    second: Cauldron Small|Jar_Mushroom.001Action
+  - first:
+      74: -4793643654783450323
+    second: Cauldron Small|Jar_Mushrooms.001Action
+  - first:
+      74: 5412777691041854376
+    second: Cauldron Small|Jar_Snaill.001Action
+  - first:
+      74: -6143300195976614224
+    second: Cauldron Small|Jar_UnicornHorn.001Action
+  - first:
+      74: -8655711499332593943
+    second: Cauldron Small|JarAction
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MainMaterial
+    second: {fileID: 2100000, guid: 876a0fd1f75011a409e57a68b869c8f6, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250467
+  packageName: 3D Alchemy Lowpoly Pack
+  packageVersion: 1.0
+  assetPath: Assets/3D Alchemy Lowpoly Pack/Models/Cauldron_Small.fbx
+  uploadId: 574479
